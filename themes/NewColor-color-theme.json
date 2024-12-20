@@ -1,0 +1,24 @@
+{
+    "name": "My Solarized Dark Theme",
+    "type": "dark",
+    "colors": {
+        "editor.background": "#002b36",
+        "editor.foreground": "#839496",
+        "editor.selectionBackground": "#073642",
+        "editor.lineHighlightBackground": "#073642"
+    },
+    "tokenColors": [
+        {
+            "scope": "keyword",
+            "settings": {
+                "foreground": "#268bd2"
+            }
+        },
+        {
+            "scope": "variable",
+            "settings": {
+                "foreground": "#b58900"
+            }
+        }
+    ]
+}

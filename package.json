@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "ThemeX",
+        "label": "ThemeX-Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ThemeX-color-theme.json"
+      },
+      {
+        "label": "ThemeX-Random",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NewColor-color-theme.json"
       }
     ]
   }
